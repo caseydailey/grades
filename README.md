@@ -1,3 +1,13 @@
+I really overdid it on the last exercise and fell behind.
+Lesson learned. 
+
+On this one, you'll find i've focused on MVP and, while i can think of more ways to do this and better ways of displaying them and all that, i'm fulfilling the requirements and moving on. 
+
+
+
+
+the instructions:
+
 Loop over an array of student grades (values from 50-100) and outputs how many of each grades there are.
 
     A score of 50-60 is an F
